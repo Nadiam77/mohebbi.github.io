@@ -25,7 +25,7 @@
                     </li>
                     <li>
                         <a href="#work">quera</a>
-                        <a> href="#work"> https://quera.ir/profile/nadiamohebbi77 </a>
+                        <a href="#work"> https://quera.ir/profile/nadiamohebbi77 </a>
                        
                     </li>
                 </ul>
