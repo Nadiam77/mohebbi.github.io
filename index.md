@@ -24,10 +24,10 @@
                         <a href="#skills">skills</a>
                     </li>
                     <li>
-                        <a href="#work">quera</a>
+                        <a href="#work">https://quera.ir/profile/nadiamohebbi77</a>
                         
-                        <p> https://quera.ir/profile/nadiamohebbi77 </p>
-                            
+                       
+                          
                        
                     </li>
                 </ul>
