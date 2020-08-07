@@ -24,7 +24,7 @@
                         <a href="#skills">skills</a>
                     </li>
                     <li>
-                        <a href="#work">https://quera.ir/profile/nadiamohebbi77</a>
+                        <a href="https://quera.ir/profile/nadiamohebbi77">Quera</a>
                         
                        
                           
