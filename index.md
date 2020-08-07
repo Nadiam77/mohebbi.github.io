@@ -61,6 +61,11 @@
                 <span class="m-left">b</span>
                 <span class="m-left">i</span>
                 <br>
+                <br>
+                <span class="m-left">Computer Engineering</span>
+                 <br>
+                <span class="m-left">Software</span>
+                <br>
             </h1>
         </div>
     </div>
