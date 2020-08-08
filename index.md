@@ -18,10 +18,10 @@
             <nav>
                 <ul>
                     <li>
-                        <a href="#about">about me</a>
+                        <a href="about">about me</a>
                     </li>
                     <li>
-                        <a href="#skills">skills</a>
+                        <a href="skills">skills</a>
                     </li>
                     <li>
                         <a href="https://quera.ir/profile/nadiamohebbi77">Quera</a>
