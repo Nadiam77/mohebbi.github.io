@@ -14,6 +14,7 @@
         <header>
             <div class="lgo">
                 <h1>Nadia</h1>
+                <img src=IMG_5787[2312].jpg width=20% height=20%>
             </div>
             <nav>
                 <ul>
