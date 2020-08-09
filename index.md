@@ -26,9 +26,9 @@
                     <li>
                         <a href="https://quera.ir/profile/nadiamohebbi77">Quera</a>
                         
-                       
-                          
-                       
+                    </li>
+                    <li>
+                        <a href="https://nadiam77.github.io/mohebbi.github.io/index-fa.md">فارسی</a>  
                     </li>
                 </ul>
             </nav>
@@ -39,33 +39,9 @@
     <div class="container main-info-section">
         <div class="text">
             <h1>
-                <span>H</span>
-                <span class="m-left">i</span>
-                <span class="m-left">,</span>
-                <br>
-                <span class="">I</span>
-                <span class="m-left">'</span>
-                <span class="m-left">m</span>
-                <span class="name"></span>
-                <span class="name">N</span>
-                <span class="m-left">a</span>
-                <span class="m-left">d</span>
-                <span class="m-left">i</span>
-                <span class="m-left">a</span>
-                <br>
-                <span>M</span>
-                <span class="m-left">o</span>
-                <span class="m-left">h</span>
-                <span class="m-left">e</span>
-                <span class="m-left">b</span>
-                <span class="m-left">b</span>
-                <span class="m-left">i</span>
-                <br>
-                <br>
-                <span class="m-left">Computer Engineering</span>
-                 <br>
-                <span class="m-left">Software</span>
-                <br>
+                <p>Hi</p>
+                <p>I'm Nadia Mohebi</p>
+                <p>Computer Engineering Software</P
             </h1>
         </div>
     </div>
