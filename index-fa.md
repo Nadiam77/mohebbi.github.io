@@ -29,7 +29,9 @@ layout: default
                     <li>
                         <a href="https://quera.ir/profile/nadiamohebbi77">لینک  Quera</a>
                     </li>
-                    <li><a href="https://nadiam77.github.io/mohebbi.github.io/index.html">English<a/></li>
+                    <li>
+                        <a href="https://nadiam77.github.io/mohebbi.github.io">English</a>
+                    </li>
                 </ul>
             </nav>
         </header>
