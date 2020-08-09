@@ -13,7 +13,7 @@ layout: default
 </head>
 
 <body dir="rtl">
-    <img src="IMG_5787[2312].jpg" weight="300px" height="250px" align="center">
+    <img src="IMG_5787[2312].jpg" weight="250px" height="250px" align="center">
     <div class="container navbar">
         <header>
             <div class="lgo">
