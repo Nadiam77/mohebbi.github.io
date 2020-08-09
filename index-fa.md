@@ -17,6 +17,7 @@ layout: default
         <header>
             <div class="lgo">
                 <h1>نادیا</h1>
+               
             </div>
             <nav>
                 <ul>
