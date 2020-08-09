@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <img src="" weight="250px" height="250px" align="center">
+    <img src="IMG_5787[2312].jpg" weight="150px" height="150px" align="center">
     <div class="container navbar">
         <header>
             <div class="lgo">
