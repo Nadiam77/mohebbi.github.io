@@ -25,7 +25,6 @@
                     </li>
                     <li>
                         <a href="https://quera.ir/profile/nadiamohebbi77">Quera</a>
-                        
                     </li>
                     <li>
                         <a href="https://nadiam77.github.io/mohebbi.github.io/index-fa.md">فارسی</a>  
@@ -38,11 +37,9 @@
     <br>
     <div class="container main-info-section">
         <div class="text">
-            <h1>
                 <p>Hi</p>
                 <p>I'm Nadia Mohebi</p>
                 <p>Computer Engineering Software</P
-            </h1>
         </div>
     </div>
     <br>
