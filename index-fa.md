@@ -52,9 +52,6 @@ layout: default
     <div class="container about" id="about">
         <h1>درباره من</h1>
         <div class="about-me-info">
-            <p>I do the work I do because I love it. I like the industry. I like the people I meet. I like to talk shop. I embrace the tecology. I like to make the world a better place. Hopefully we cross paths in the real world someday and we can make it
-                a better place together.</p>
-            <p>I do the work I do because I love it. I like the industry. I like the people I meet. I like to talk shop. I embrace the tecology. I like to make the world a better place. Hopefully we cross paths in the real world someday and we can make it
-                a better place together.</p>
-            <p>I do the work I do because I love it. I like the industry. I like the people I meet. I like to talk shop. I embrace the tecology. I like to make the world a better place. Hopefully we cross paths in the real world someday and we can make it
-                a better place together.</p>
+            <p>من کارهایی را انجام میدهم که عاشق آن هستم.من افرادی را که مقالات می کنم دوست دارم. من فناوری را در آغوش می گیرم. دوست دارم دنیا را به مکانی بهتر تبدیل کنم. من کامپیوتر را خیلی دوست دارم. امیدوارم روزی در دنیای واقعی از مسیر عبور کنیم و بتوانیم آن را به مکانی بهتر تبدیل کنیم و روز به روز عرصه ی تکنولوژی را بالا ببریم.  </p>
+            <p>من کارهایی را انجام میدهم که عاشق آن هستم.من افرادی را که مقالات می کنم دوست دارم. من فناوری را در آغوش می گیرم. دوست دارم دنیا را به مکانی بهتر تبدیل کنم. من کامپیوتر را خیلی دوست دارم. امیدوارم روزی در دنیای واقعی از مسیر عبور کنیم و بتوانیم آن را به مکانی بهتر تبدیل کنیم و روز به روز عرصه ی تکنولوژی را بالا ببریم.</p>
+            <p>من کارهایی را انجام میدهم که عاشق آن هستم.من افرادی را که مقالات می کنم دوست دارم. من فناوری را در آغوش می گیرم. دوست دارم دنیا را به مکانی بهتر تبدیل کنم. من کامپیوتر را خیلی دوست دارم. امیدوارم روزی در دنیای واقعی از مسیر عبور کنیم و بتوانیم آن را به مکانی بهتر تبدیل کنیم و روز به روز عرصه ی تکنولوژی را بالا ببریم.</p>
