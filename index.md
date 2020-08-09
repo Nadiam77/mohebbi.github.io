@@ -27,7 +27,7 @@
                         <a href="https://quera.ir/profile/nadiamohebbi77">Quera</a>
                     </li>
                     <li>
-                        <a href="https://nadiam77.github.io/mohebbi.github.io/index-fa.md">فارسی</a>  
+                        <a href="https://nadiam77.github.io/mohebbi.github.io/index-fa.html">فارسی</a>  
                     </li>
                 </ul>
             </nav>
