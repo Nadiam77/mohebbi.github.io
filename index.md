@@ -52,5 +52,4 @@
                 a better place together and Let's raise the field of technology day by day.</p>
             <p>I do the work I do because I love it. I like the industry. I like the people I meet. I like to talk shop. I embrace the tecology. I like to make the world a better place.I like computers very much. Hopefully we cross paths in the real world someday and we can make it
                 a better place together and Let's raise the field of technology day by day.</p>
-            <p>I do the work I do because I love it. I like the industry. I like the people I meet. I like to talk shop. I embrace the tecology. I like to make the world a better place.I like computers very much. Hopefully we cross paths in the real world someday and we can make it
-                a better place together and Let's raise the field of technology day by day.</p>
+            
