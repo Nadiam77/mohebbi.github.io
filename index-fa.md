@@ -13,11 +13,12 @@ layout: default
 </head>
 
 <body dir="rtl">
+    <img src="IMG_5787[2312].jpg" weight="300px" height="250px" align="center">
     <div class="container navbar">
         <header>
             <div class="lgo">
                 <h1>نادیا</h1>
-               <img src="https://github.com/Nadiam77/mohebbi.github.io/blob/gh-pages/IMG_5787%5B2312%5D.jpg" weight="300px" height="250px" align="center">
+               
             </div>
             <nav>
                 <ul>
