@@ -10,11 +10,12 @@
 </head>
 
 <body>
+    <img src="https://github.com/Nadiam77/mohebbi.github.io/blob/index-fa.html/IMG_5787%5B2312%5D.jpg" weight="300px" height="250px" align="center">
     <div class="container navbar">
         <header>
             <div class="lgo">
                 <h1>Nadia</h1>
-                <img src=https://github.com/Nadiam77/mohebbi.github.io/blob/gh-pages/IMG_5787%5B2312%5D.jpg weight="300px" height="250px" align="center">
+                <img src="https://github.com/Nadiam77/mohebbi.github.io/blob/index-fa.html/IMG_5787%5B2312%5D.jpg" weight="300px" height="250px" align="center">
             </div>
             <nav>
                 <ul>
