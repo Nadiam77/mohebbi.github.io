@@ -37,9 +37,9 @@
     <br>
     <div class="container main-info-section">
         <div class="text">
-                <p>Hi</p>
-                <p>I'm Nadia Mohebi</p>
-                <p>Computer Engineering Software</P
+                <h1>Hi</h1>
+                <h1>I'm Nadia Mohebi</h1>
+                <h1>Computer Engineering Software</h1>
         </div>
     </div>
     <br>
