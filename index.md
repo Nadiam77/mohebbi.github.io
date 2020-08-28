@@ -19,7 +19,7 @@
             <nav>
                 <ul>
                     <li>
-                        <a href="NM_CV_CheckList_AR_3983.docx">resume</a>
+                        <a href="NM_CV_CheckList_AR_3983.pdf">resume</a>
                     </li>
                     <li>
                         <a href="skills">skills</a>
