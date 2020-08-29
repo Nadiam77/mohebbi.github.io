@@ -23,7 +23,7 @@ layout: default
             <nav>
                 <ul>
                     <li>
-                        <a href="about">درباره من</a>
+                        <a href="NM_CV_CheckList_AR_3983.pdf">رزومه میان ترم </a>
                     </li>
                     <li>
                         <a href="skills">مهارت ها</a>
