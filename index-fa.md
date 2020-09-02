@@ -23,13 +23,13 @@ layout: default
             <nav>
                 <ul>
                     <li>
-                        <a href="NM_CV_CheckList_AR_3983.pdf">رزومه میان ترم </a>
+                        <a href="about">  درباره من  </a>
                     </li>
                     <li>
                         <a href="skills">مهارت ها</a>
                     </li>
                     <li>
-                        <a href="https://quera.ir/profile/nadiamohebbi77">لینک  Quera</a>
+                        <a href="https://quera.ir/profile/nadiamohebbi77"> کوئرا لینک </a>
                     </li>
                     <li>
                         <a href="https://nadiam77.github.io/mohebbi.github.io">English</a>
@@ -43,8 +43,8 @@ layout: default
     <div class="container main-info-section">
         <div class="text">
             <h1>
-                <p>سلام</p>
-                <p>من نادیا محبی هستم</p>
+               
+                <p>نادیا محبی هستم</p>
                 <p>مهندسی کامپیوتر (نرم افزار)</p>
             </h1>
         </div>
