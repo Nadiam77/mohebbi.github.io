@@ -51,8 +51,7 @@ layout: default
     </div>
     <br>
     <br>
-    <div class="container about" id="about">
-        <h1>درباره من</h1>
+   
         
      <li>
      <a href="NM_CV_CheckList_AR_3983.pdf">رزومه</a>
