@@ -29,7 +29,7 @@ layout: default
                         <a href="skills">مهارت ها</a>
                     </li>
                     <li>
-                        <a href="https://quera.ir/profile/nadiamohebbi77"> کوئرا لینک </a>
+                        <a href="https://quera.ir/profile/nadiamohebbi77">  لینک کوئرا </a>
                     </li>
                     <li>
                         <a href="https://nadiam77.github.io/mohebbi.github.io">English</a>
