@@ -48,6 +48,6 @@ body
     min-width: 619px;
     max-width: 619px;
     color: rgb(40, 40, 40);
-    padding-left: 40px;
+    padding-right: 40px;
     transform: translate(0,-53px);
 }
