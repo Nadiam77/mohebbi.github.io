@@ -1,7 +1,7 @@
 .tpl-bgime{
     background-color: rgba(0, 0, 0, 0);
     background-repeat: no-repeat;
-   background-image: url("img/slider-background.jpg");
+   background-image: url("slider-background.jpg");
     background-size: cover;
     background-position: center center;
     width: 100%;
