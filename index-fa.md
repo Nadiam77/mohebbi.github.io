@@ -23,7 +23,7 @@ layout: default
             <nav>
                 <ul>
                     <li>
-                        <a href="about">  درباره من  </a>
+                        <a href="index2.html">  درباره من  </a>
                     </li>
                     <li>
                         <a href="skills">مهارت ها</a>
