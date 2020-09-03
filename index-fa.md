@@ -26,10 +26,10 @@ layout: default
                         <a href="index2.html">  درباره من  </a>
                     </li>
                     <li>
-                        <a href="nadia2.html">مهارت ها</a>
+                        <a href="nadia2.html">مهارت ها </a>
                     </li>
                     <li>
-                        <a href="https://quera.ir/profile/nadiamohebbi77">  لینک کوئرا </a>
+                        <a href="https://quera.ir/profile/nadiamohebbi77"> لینک کوئرا </a>
                     </li>
                     <li>
                         <a href="https://nadiam77.github.io/mohebbi.github.io">English</a>
