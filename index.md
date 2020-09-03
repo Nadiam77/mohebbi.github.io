@@ -22,7 +22,7 @@
                        <a href="nadia.html ">About me</a>
                     </li>
                     <li>
-                        <a href="skills">Skills</a>
+                        <a href="nadia1.html">Skills</a>
                     </li>
                     <li>
                         <a href="https://quera.ir/profile/nadiamohebbi77">Quera</a>
