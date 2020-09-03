@@ -18,7 +18,9 @@
             </div>
             <nav>
                 <ul>
-                   
+                   <li>
+                       <a href="About me">About me</a>
+                    </li>
                     <li>
                         <a href="skills">Skills</a>
                     </li>
@@ -32,7 +34,6 @@
             </nav>
         </header>
     </div>
-    <br>
     <br>
     <br>
     
