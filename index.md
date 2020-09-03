@@ -19,7 +19,7 @@
             <nav>
                 <ul>
                    <li>
-                       <a href="About me">About me</a>
+                       <a href="nadia.html ">About me</a>
                     </li>
                     <li>
                         <a href="skills">Skills</a>
